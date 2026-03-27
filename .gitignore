@@ -1,0 +1,2 @@
+# Ignora arquivos executáveis gerados na compilação
+*.exe
